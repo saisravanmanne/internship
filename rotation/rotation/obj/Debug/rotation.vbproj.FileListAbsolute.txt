@@ -1,0 +1,10 @@
+R:\internship 2015\rotation\rotation\bin\Debug\rotation.exe.config
+R:\internship 2015\rotation\rotation\bin\Debug\rotation.exe
+R:\internship 2015\rotation\rotation\bin\Debug\rotation.pdb
+R:\internship 2015\rotation\rotation\bin\Debug\rotation.xml
+R:\internship 2015\rotation\rotation\obj\Debug\rotation.Form1.resources
+R:\internship 2015\rotation\rotation\obj\Debug\rotation.Resources.resources
+R:\internship 2015\rotation\rotation\obj\Debug\rotation.vbproj.GenerateResource.Cache
+R:\internship 2015\rotation\rotation\obj\Debug\rotation.exe
+R:\internship 2015\rotation\rotation\obj\Debug\rotation.xml
+R:\internship 2015\rotation\rotation\obj\Debug\rotation.pdb

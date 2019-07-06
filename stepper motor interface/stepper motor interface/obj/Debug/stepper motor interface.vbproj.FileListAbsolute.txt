@@ -1,0 +1,10 @@
+R:\internship 2015\stepper motor interface\stepper motor interface\bin\Debug\stepper motor interface.exe.config
+R:\internship 2015\stepper motor interface\stepper motor interface\bin\Debug\stepper motor interface.exe
+R:\internship 2015\stepper motor interface\stepper motor interface\bin\Debug\stepper motor interface.pdb
+R:\internship 2015\stepper motor interface\stepper motor interface\bin\Debug\stepper motor interface.xml
+R:\internship 2015\stepper motor interface\stepper motor interface\obj\Debug\stepper_motor_interface.Resources.resources
+R:\internship 2015\stepper motor interface\stepper motor interface\obj\Debug\stepper_motor_interface.Form1.resources
+R:\internship 2015\stepper motor interface\stepper motor interface\obj\Debug\stepper motor interface.vbproj.GenerateResource.Cache
+R:\internship 2015\stepper motor interface\stepper motor interface\obj\Debug\stepper motor interface.exe
+R:\internship 2015\stepper motor interface\stepper motor interface\obj\Debug\stepper motor interface.xml
+R:\internship 2015\stepper motor interface\stepper motor interface\obj\Debug\stepper motor interface.pdb
