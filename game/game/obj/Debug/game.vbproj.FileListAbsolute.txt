@@ -1,0 +1,10 @@
+R:\internship 2015\game\game\bin\Debug\game.exe.config
+R:\internship 2015\game\game\obj\Debug\game.Form1.resources
+R:\internship 2015\game\game\obj\Debug\game.Resources.resources
+R:\internship 2015\game\game\obj\Debug\game.vbproj.GenerateResource.Cache
+R:\internship 2015\game\game\bin\Debug\game.exe
+R:\internship 2015\game\game\bin\Debug\game.pdb
+R:\internship 2015\game\game\bin\Debug\game.xml
+R:\internship 2015\game\game\obj\Debug\game.exe
+R:\internship 2015\game\game\obj\Debug\game.xml
+R:\internship 2015\game\game\obj\Debug\game.pdb

@@ -1,0 +1,10 @@
+R:\internship 2015\calculator\calculator\bin\Release\calculator.exe.config
+R:\internship 2015\calculator\calculator\bin\Release\calculator.exe
+R:\internship 2015\calculator\calculator\bin\Release\calculator.pdb
+R:\internship 2015\calculator\calculator\bin\Release\calculator.xml
+R:\internship 2015\calculator\calculator\obj\Release\calculator.Form1.resources
+R:\internship 2015\calculator\calculator\obj\Release\calculator.Resources.resources
+R:\internship 2015\calculator\calculator\obj\Release\calculator.vbproj.GenerateResource.Cache
+R:\internship 2015\calculator\calculator\obj\Release\calculator.exe
+R:\internship 2015\calculator\calculator\obj\Release\calculator.xml
+R:\internship 2015\calculator\calculator\obj\Release\calculator.pdb

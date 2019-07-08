@@ -1,0 +1,13 @@
+R:\internship 2015\calculator\calculator\bin\Debug\calculator.exe.config
+R:\internship 2015\calculator\calculator\bin\Debug\calculator.exe
+R:\internship 2015\calculator\calculator\bin\Debug\calculator.pdb
+R:\internship 2015\calculator\calculator\bin\Debug\calculator.xml
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.Form1.resources
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.Resources.resources
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.vbproj.GenerateResource.Cache
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.exe
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.xml
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.pdb
+R:\internship 2015\calculator\calculator\bin\Debug\calculator.exe.CodeAnalysisLog.xml
+R:\internship 2015\calculator\calculator\bin\Debug\calculator.exe.lastcodeanalysissucceeded
+R:\internship 2015\calculator\calculator\obj\Debug\calculator.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+copy both .fig and .m file to the same folder and select change folder option during simulation.
+this program also creats the g code file for the simulated path.
